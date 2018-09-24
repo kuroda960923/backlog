@@ -1,0 +1,5 @@
+{'errors': [{'message': 'User ID y-kuroda2 is already in use.', 'code': 7, 'moreInfo': ''}]}
+{'errors': [{'message': 'User ID y-kuroda3 is already in use.', 'code': 7, 'moreInfo': ''}]}
+{'errors': [{'message': 'User ID y-kuroda4 is already in use.', 'code': 7, 'moreInfo': ''}]}
+{'errors': [{'message': 'User ID y-kuroda5 is already in use.', 'code': 7, 'moreInfo': ''}]}
+{'errors': [{'message': 'User ID y-kuroda6 is already in use.', 'code': 7, 'moreInfo': ''}]}
